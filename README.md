@@ -3,10 +3,15 @@ This repository contains a Keras implementation of an LSTM-based word prediction
 
 ### Model Architecture
 Embedding Layer: Converts input words into dense vectors for representation.
+
 LSTM Layers: Two LSTM layers capture long-term dependencies in the sequential data.
+
 Dense Layers: Feature extraction and prediction layers.
+
 Compilation: Categorical cross-entropy loss, Adam optimizer.
+
 Summary: Model architecture and parameters overview.
+
 #### Usage
 Load the pre-trained model.
 Compile with appropriate settings.
