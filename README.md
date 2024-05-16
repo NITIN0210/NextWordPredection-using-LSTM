@@ -1,4 +1,4 @@
-# NextWordPredection-using-LSTM
+# NextWordPredection using LSTM
 This repository contains a Keras implementation of an LSTM-based word prediction model. The model is trained to predict the next word in a sequence based on the preceding words.
 
 ### Model Architecture
